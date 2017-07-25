@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">11.2.networking-2.3-2.4-2.5</string>
+    <string name="url">URL</string>
+    <string name="loan_amount">Loan Amount</string>
+    <string name="rate">Interest rate</string>
+    <string name="month">Month</string>
+    <string name="payment">Caculate Payments</string>
+</resources>
